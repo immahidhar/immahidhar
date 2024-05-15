@@ -3,8 +3,8 @@
 
 <!-- - 🌱 I’m currently learning
 - 🔭 I’m currently working on -->
-- 👨‍💻 Know all about me at **<a href="https://immahidhar.github.io/">immahidhar.github.io</a>**
-- 📄 Know about my experiences - **<a href="https://immahidhar.github.io/">resume</a>**
+- 👨‍💻 Know all about me at **<a href="https://immahidhar.github.io/" target="_blank">immahidhar.github.io</a>**
+- 📄 Know about my experiences - **<a href="https://immahidhar.github.io/" target="_blank">resume</a>**
 - 📫 How to reach me **immahidhar@gmail.com**
 - ⚡ Fun fact **I'm a huge science nerd who happened to choose software development as a career**
 
