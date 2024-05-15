@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Mahidhar Reddy Narala</h1>
 <h3 align="center">A passionate Software Development Engineer</h3>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <!-- - 🌱 I’m currently learning
 - 🔭 I’m currently working on -->
 - 👨‍💻 Know all about me at **<a href="https://immahidhar.github.io/" target="_blank" rel="noopener noreferrer">immahidhar.github.io</a>**
