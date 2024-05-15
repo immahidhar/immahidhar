@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=immahidhar&label=Profile%20views&color=dc8add&style=flat" alt="immahidhar" /> </p>
+
+<h3 align="left">Profile Stats:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=immahidhar&show_icons=true&theme=dracula&locale=en" alt="immahidhar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=immahidhar&theme=dark" alt="immahidhar" /></p>
+
+
 <!--
 **immahidhar/immahidhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
