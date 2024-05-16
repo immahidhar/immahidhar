@@ -20,6 +20,8 @@ Hi there
 - 📫 How to reach me **<immahidhar@gmail.com>**
 - ⚡ Fun fact **I'm a huge science nerd who happened to choose software development as a career**
 
+<hr/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
