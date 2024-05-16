@@ -1,8 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Mahidhar Narala</h1>
+<h1 align="center">
+Hi there
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Mahidhar Narala</h1>
+
+ <img src="https://komarev.com/ghpvc/?username=immahidhar&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="immahidhar" />
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&random=false&width=435&lines=Software+Development+Engineer;Computer+Science+Nerd;Java+%7C+Python;C+%7C+C%2B%2B;DS+Algo+%7C+System+Design" alt="Typing SVG" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&random=false&width=435&lines=Software+Development+Engineer;Computer+Science+Nerd;Always+learning+new+things)](https://git.io/typing-svg)
+<hr/>
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
@@ -12,6 +19,8 @@
 - 📄 Know about my experiences - **<a href="https://immahidhar.github.io/" target="_blank" rel="noopener noreferrer">resume</a>**
 - 📫 How to reach me **<immahidhar@gmail.com>**
 - ⚡ Fun fact **I'm a huge science nerd who happened to choose software development as a career**
+
+<hr/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
