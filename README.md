@@ -1,13 +1,12 @@
 <h1 align="center">
 Hi there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Mahidhar Narala</h1>
- 
- <img src="https://komarev.com/ghpvc/?username=immahidhar&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="immahidhar" />
 
+ <img src="https://komarev.com/ghpvc/?username=immahidhar&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="immahidhar" />
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Development+Engineer;Computer+Science+Nerd;Aviation+Enthusiast;Astronomy+Buff" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&random=false&width=435&lines=Software+Development+Engineer;Computer+Science+Nerd;Java+%7C+Python;C+%7C+C%2B%2B;DS+Algo+%7C+System+Design" alt="Typing SVG" /></a>
 </p>
 
 <hr/>
