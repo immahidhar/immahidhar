@@ -14,7 +14,7 @@ Hi there
 <!-- - 🌱 I’m currently learning
 - 🔭 I’m currently working on -->
 - 👨‍💻 Know all about me at **<a href="https://immahidhar.github.io/" target="_blank" rel="noopener noreferrer">immahidhar.github.io</a>**
-- 📄 Know about my experiences - **<a href="https://immahidhar.github.io/" target="_blank" rel="noopener noreferrer">resume</a>**
+- 📄 Know about my experiences - **<a href="https://immahidhar.github.io/mahidhar-narala-resume.pdf" target="_blank" rel="noopener noreferrer">resume</a>**
 - 📫 How to reach me **<immahidhar@gmail.com>**
 - ⚡ Fun fact **I'm a huge science nerd who happened to choose software development as a career**
 
